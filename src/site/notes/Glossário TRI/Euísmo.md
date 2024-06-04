@@ -6,9 +6,11 @@
 
  ## Euísmo
 
-| Criado em: 16/12/2024      | Atualizado em: |
-| -------------------------- | -------------- |
-| Por quem ? Rafael Kraisch  | Por quem ?     |
+| Criado em: 16/12/ 2024    |
+| ------------------------- |
+| Por quem ? Rafael Kraisch |
+| Atualizado em:            |
+| Por quem?                 |
 
 Euísmo é um termo utilizado na Terapia de Reintegração Implícita (TRI) para descrever o processo pelo qual o indivíduo tenta justificar suas escolhas, comportamentos e até personalidade, utilizando-se de lembranças e aprendizados desenvolvidos ao longo da sua vida, criando, assim, uma narrativa coerente que convence a si mesmo e aos outros de que A causou B. Um exemplo típico é: "Hoje eu sou assim porque minha mãe batia em mim quando criança."
 
@@ -22,8 +24,7 @@ Deve-se observar que euísmo é diferente de egoísmo, que é o foco excessivo n
 
 ----
 
-| Palavras-Chave | **Egoísmo, Percepção, Personalidade, Sapir-Whorf (hipótese)** |
-| -------------- | ------------------------------------------------------------- |
-
+## Palavras- Chave 
+**Egoísmo, Percepção, Personalidade, Sapir-Whorf (hipótese)**
 
 
