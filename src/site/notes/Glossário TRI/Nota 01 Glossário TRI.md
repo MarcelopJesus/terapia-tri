@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossario-tri/nota-01-glossario-tri/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/glossario-tri/nota-01-glossario-tri/"}
 ---
 
 
