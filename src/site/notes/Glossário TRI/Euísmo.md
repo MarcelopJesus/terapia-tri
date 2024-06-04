@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/glossario-tri/euismo/"}
+{"dg-publish":true,"permalink":"/glossario-tri/euismo/","tags":["gardenEntry"]}
 ---
 
 
