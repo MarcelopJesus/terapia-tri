@@ -12,6 +12,6 @@ Implícito, etimologicamente, provém do latim "implicitus", que significa envol
 
 ## Palavras- Chave
 
-**Memória, Lembrança, Comportamento, Consciente, Consciência, Inconsciente, Sigmund Freud
+**Memória, Lembrança, Comportamento, Consciente, Consciência, Inconsciente, Sigmund Freud**
 
 
