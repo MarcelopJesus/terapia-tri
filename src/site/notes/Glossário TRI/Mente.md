@@ -18,5 +18,5 @@ Na TRI, reconhece-se que essa experiência subjetiva não pode ser plenamente ca
 
 ## Palavras- Chave
 
-**Memória, Dualismo
+**Memória, Dualismo**
 
