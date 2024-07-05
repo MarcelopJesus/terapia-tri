@@ -6,12 +6,6 @@
 
 ## Mente
 
-|                |                |
-| -------------- | -------------- |
-| Criado em:     | 16/02/2024     |
-| Por quem?      | Rafael Kraisch |
-| Atualizado em: |                |
-| Por quem?      |                |
 
 O conceito de "mente" na Terapia de Reintegração Implícita (TRI) é interpretado sob uma perspectiva monista, afirmando que “mente” é apenas um termo teórico para enfatizar a experiência subjetiva de um encéfalo real e material, e não um contraponto ao corpo ou algo separado ou superior a ele. A TRI alega que “não existe mente” no sentido tradicionalmente dualista.
 
