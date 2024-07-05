@@ -2,15 +2,10 @@
 {"dg-publish":true,"permalink":"/glossario-tri/emocao/"}
 ---
 
+---
 
 ## Emoção
 
-|                |                |
-| -------------- | -------------- |
-| Criado em:     | 25/02/2024     |
-| Por quem?      | Rai Lima       |
-| Atualizado em: | 27/05/2024     |
-| Por quem?      | Rafael Kraisch |
 
 Emoção é um termo que vem do latim "emovere", que significa “agir de dentro para fora” ou “agitar” e é caracterizada pela rapidez e efemeridade. Deve-se entender que a TRI faz uma diferenciação entre emoção (uma resposta corporal rápida) e um sentimento (a avaliação cognitiva posterior). Por exemplo: uma pessoa leva um grande susto que a faz contrair seus músculos e face. Como ela está com seus amigos, seu sistema nervoso faz um cálculo rápido de perigos e experiências pretéritas e, quase que imediatamente, entende que o susto foi provocado por um amigo e, portanto, dirá que se sente feliz e até animado com a brincadeira. Se o susto acontecesse à noite, em ambiente desconhecido, o julgamento (sentimento) estaria associado a medo, pânico, desconforto etc.
 
