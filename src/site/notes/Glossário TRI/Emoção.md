@@ -4,7 +4,7 @@
 
 ---
 
-## Emoção
+
 
 
 Emoção é um termo que vem do latim "emovere", que significa “agir de dentro para fora” ou “agitar” e é caracterizada pela rapidez e efemeridade. Deve-se entender que a TRI faz uma diferenciação entre emoção (uma resposta corporal rápida) e um sentimento (a avaliação cognitiva posterior). Por exemplo: uma pessoa leva um grande susto que a faz contrair seus músculos e face. Como ela está com seus amigos, seu sistema nervoso faz um cálculo rápido de perigos e experiências pretéritas e, quase que imediatamente, entende que o susto foi provocado por um amigo e, portanto, dirá que se sente feliz e até animado com a brincadeira. Se o susto acontecesse à noite, em ambiente desconhecido, o julgamento (sentimento) estaria associado a medo, pânico, desconforto etc.
@@ -19,7 +19,4 @@ Na Terapia de Reintegração Implícita (TRI), o que gera o sofrimento de algué
 
 ----
 
-## Palavras- Chave
-
-**Emoção, Neurociência, Plasticidade Neural, Terapia de Reintegração Implícita (TRI), Cognição**
 
