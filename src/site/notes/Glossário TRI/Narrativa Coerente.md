@@ -5,7 +5,6 @@
 
 ---
 
-## Narrativa Coerente
 
 A narrativa coerente é o segundo princípio da T.R.I. É muitas vezes uma história complexa contada pelo cliente, relacionando seus pais, sua história, seus relacionamentos, suas frustrações. É um discurso pronto, em um processo que mescla memórias episódicas, pressuposições sociais e conclusões imprecisas que, ao serem alinhadas de maneira lógica criam narrativa coerente, tanto para quem fala quanto para quem ouve.
 
@@ -14,6 +13,5 @@ Quando falamos da narrativa coerente, estamos falando do “EUÍSMO”, a constr
 
 ----
 
-## Palavras- Chave
 
 
