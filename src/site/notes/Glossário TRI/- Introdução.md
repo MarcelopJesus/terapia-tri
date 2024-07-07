@@ -4,6 +4,8 @@
 
 
 ---
+
+
 O presente trabalho incide sobre os principais conceitos da Terapia de Reintegração Implícita (TRI). Este glossário não pretende abranger todo o campo da TRI, mas destaca os termos mais procurados pelos alunos e que precisam de maior orientação.
 
 A TRI, como qualquer abordagem terapêutica, necessita de um vocabulário específico para expressar suas descobertas e técnicas. É inevitável que, com a crescente literatura sobre o assunto, surja certa confusão conceitual. Um mesmo termo pode adquirir significados diferentes quando utilizado por diversos autores, ou mesmo pelo mesmo autor em contextos distintos. O contrário também ocorre, onde diferentes termos podem ser usados para descrever o mesmo conceito. Essa diversidade pode enriquecer o campo, mas também pode causar desorientação.
@@ -18,4 +20,27 @@ Este glossário visa fornecer clareza e orientação prática, auxiliando alunos
 
 ----
 
+## Manual de uso
+
+Este guia rápido ajudará você a navegar e utilizar a plataforma de forma eficiente.
+
+A lista de termos está organizada alfabeticamente no menu à esquerda. Clique em qualquer termo para visualizar sua definição e detalhes. Utilize a barra de busca localizada no topo do menu para encontrar termos específicos rapidamente. Ao clicar em um termo, você será redirecionado para a página correspondente, onde encontrará a definição detalhada, juntamente com seu contexto dentro da TRI. Abaixo da definição, você encontrará as referências utilizadas, incluindo anotações de aulas, apostilas e outras fontes relevantes.
+
+À direita da definição, você verá uma seção intitulada "Connected Pages" (Páginas Conectadas), que mostra visualmente como o termo se relaciona com outros termos do glossário. Clique nos termos conectados para navegar facilmente entre conceitos relacionados e aprofundar seu entendimento. Use o controle deslizante "Depth" (Profundidade) para ajustar a quantidade de conexões exibidas, permitindo explorar relações mais amplas ou mais específicas entre os termos. Utilize os links internos na seção "On this page" (Nesta página) para navegar rapidamente para seções específicas da definição do termo.
+
+A plataforma de Pesquisa e Leitura do Glossário TRI foi projetada para ser uma ferramenta prática e eficiente, facilitando seu aprendizado e aplicação dos conceitos da Terapia de Reintegração Implícita. Explore os recursos, aprofunde-se nos termos e aproveite ao máximo sua experiência de estudo. 
+
+---
+
+## Em caso de erros ou sugestões
+
+Este trabalho está em sua fase beta, ou seja, está em fase de crescimento, correção e aprofundamento. Portanto, é normal que haja erros ou discrepâncias em alguns termos. Queremos que você faça parte deste projeto. Caso encontre algum erro ou problema, por favor, envie os detalhes para o seguinte e-mail: professor@institutokraisch.com.br.
+
+
+Além disso, aproveite para contribuir com o crescimento deste projeto enviando sugestões de melhoria e indicações de literatura, filmes, séries e aulas que sejam relevantes para a Terapia de Reintegração Implícita, bem como outros termos que você considera importantes incluir no glossário. Suas sugestões são valiosas para enriquecer o conteúdo e aprimorar a plataforma.
+
+Agradecemos sua contribuição para o contínuo aprimoramento da nossa plataforma e do conteúdo oferecido.
+
+Atenciosamente,
+Instituto Kraisch
 
