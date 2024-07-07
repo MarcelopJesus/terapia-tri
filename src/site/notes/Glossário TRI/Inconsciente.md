@@ -4,7 +4,6 @@
 
 ---
 
-## Inconsciente
 
 Assim como o termo subconsciente, o termo inconsciente não é utilizado na TRI por ser considerado antiquado e frequentemente associado a práticas místicas ou religiosas.
 
@@ -17,10 +16,6 @@ Freud, como fisiologista, via o inconsciente como um domínio separado da consci
 
 ----
 
-## Referência:
-
-**Aula 47. A CARROÇA DA CONSCIÊNCIA: APOSTILA T.R.I; ANOTAÇÕES NA APOSTILA.
-Livro "Neuropsicanálise: Uma Introdução às Neurociências para o Praticante da Psicanálise" (2008) (neurocientista e psicanalista Mark Solms) co-autor**
 
 
 
