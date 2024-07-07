@@ -4,7 +4,7 @@
 
 ---
 
-## Mente
+
 
 
 O conceito de "mente" na Terapia de Reintegração Implícita (TRI) é interpretado sob uma perspectiva monista, afirmando que “mente” é apenas um termo teórico para enfatizar a experiência subjetiva de um encéfalo real e material, e não um contraponto ao corpo ou algo separado ou superior a ele. A TRI alega que “não existe mente” no sentido tradicionalmente dualista.
@@ -15,8 +15,4 @@ Na TRI, reconhece-se que essa experiência subjetiva não pode ser plenamente ca
 
 
 ----
-
-## Palavras- Chave
-
-**Memória, Dualismo**
 
