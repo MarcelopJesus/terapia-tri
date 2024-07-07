@@ -4,7 +4,6 @@
 
 ---
 
-## Memória
 
 
 A memória é um dos processos fundamentais do encéfalo, permitindo o armazenamento, a retenção e a recuperação de informações e experiências passadas. Existem diferentes tipos de memória, como a memória operacional (de curto prazo), que auxilia na resolução de problemas imediatos, e a memória episódica, que possibilita a lembrança de eventos específicos e experiências pessoais. A memória pode ser avaliada em diversos aspectos, incluindo a memória recente, a memória semântica e a memória autobiográfica, que se refere a eventos pessoais.
@@ -14,7 +13,4 @@ Diversas estruturas cerebrais colaboram no processamento e armazenamento das mem
 
 ----
 
-## Palavras- Chave
-
-**Cérebro, Estruturas cerebrais, Limitações, Freud, Psique humana, Repressão, Compreensão**
 
