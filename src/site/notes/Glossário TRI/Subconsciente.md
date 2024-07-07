@@ -5,7 +5,6 @@
 
 ---
 
-## Subconsciente 
 
 O termo subconsciente não é utilizado na TRI por ser considerado antiquado e estar frequentemente associado a práticas místicas ou religiosas.
 
@@ -16,8 +15,5 @@ Janet percebeu que tais comportamentos eram resultados de aprendizados que, embo
 
 ----
 
-## Referência:
-
-**Aula Aula 47. A CARROÇA DA CONCIÊNCIA: APOSTILA T.R.I; ANOTAÇÕES NA APOSTILA.**
 
 
