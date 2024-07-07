@@ -4,7 +4,7 @@
 
 ---
 
-## Memória Emocional
+
 
 A memória emocional é um dos tipos de memória implícita e de longo prazo, caracterizada por experiências somáticas e mnemônicas, podendo ter valência negativa ou positiva. Essas memórias são desenvolvidas desde a gestação e são indeléveis, mesmo que aparentemente esquecidas ou suprimidas pelo indivíduo devido a necessidade de adaptação social.
 Na Terapia de Reintegração Implícita (TRI), compreendemos que as memórias emocionais formam esquemas emocionais profundos e complexos, e não se referem a apenas uma experiência ou um tipo de sentimento. 
@@ -14,6 +14,5 @@ Assim, memória emocional não é lembrar de um episódio triste ou ficar feliz 
 
 ----
 
-## Palavras- Chave
 
 
