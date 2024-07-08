@@ -5,6 +5,7 @@
 ---
 
 
+
 Euísmo é um termo utilizado na Terapia de Reintegração Implícita (TRI) para descrever o processo pelo qual o indivíduo tenta justificar suas escolhas, comportamentos e até personalidade, utilizando-se de lembranças e aprendizados desenvolvidos ao longo da sua vida, criando, assim, uma narrativa coerente que convence a si mesmo e aos outros de que A causou B. Um exemplo típico é: "Hoje eu sou assim porque minha mãe batia em mim quando criança."
 
 Esta é a falácia de correlação-causalidade, onde o indivíduo erroneamente atribui uma relação causal entre eventos que estão apenas correlacionados.
