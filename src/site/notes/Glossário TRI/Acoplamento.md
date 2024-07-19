@@ -4,7 +4,7 @@
 
 ---
 
-Na TRI o termo “acoplamento” faz referência entre a interação do sistema nervoso do indivíduo e o sistema ou ambiente que o cerca. Essa ideia é essencial na TRI, fundamentada na hipótese do [[00 - Aleatórios/cérebro social\|cérebro social]] e na compreensão de que os seres humanos são essencialmente sociais, interagindo constantemente com o sistema de informações, coisas e pessoas ao seu redor.
+Na TRI o termo “acoplamento” faz referência entre a interação do sistema nervoso do indivíduo e o sistema ou ambiente que o cerca. Essa ideia é essencial na TRI, fundamentada na hipótese do [[Glossário TRI/Cérebro Social\|cérebro social]] e na compreensão de que os seres humanos são essencialmente sociais, interagindo constantemente com o sistema de informações, coisas e pessoas ao seu redor.
 
 A pessoa consegue movimentar-se nesse sistema, porém, restrito aos limites definidos não apenas pelo sistema, mas por sua própria limitação ou estrutura [[Glossário TRI/Biopsicossocial\|biopsicossocial]]. Este fenômeno para a Terapia de Reintegração Implícita é chamado de “acoplamento”, e ocorre continuamente em cada contexto e momento de nossas vidas.
 
@@ -22,5 +22,7 @@ Este processo de acoplamento ou desacoplamento (aceitar ou ser expulso) está em
 
 ----
 
+### Ver também:
 
+[[Glossário TRI/Sistema Nervoso\|Sistema Nervoso]]
 
