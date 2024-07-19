@@ -4,9 +4,9 @@
 
 ---
 
-Na TRI o termo “acoplamento” faz referência entre a interação do sistema nervoso do indivíduo e o sistema ou ambiente que o cerca. Essa ideia é essencial na TRI, fundamentada na hipótese do cérebro social e na compreensão de que os seres humanos são essencialmente sociais, interagindo constantemente com o sistema de informações, coisas e pessoas ao seu redor.
+Na TRI o termo “acoplamento” faz referência entre a interação do sistema nervoso do indivíduo e o sistema ou ambiente que o cerca. Essa ideia é essencial na TRI, fundamentada na hipótese do [[00 - Aleatórios/cérebro social\|cérebro social]] e na compreensão de que os seres humanos são essencialmente sociais, interagindo constantemente com o sistema de informações, coisas e pessoas ao seu redor.
 
-A pessoa consegue movimentar-se nesse sistema, porém, restrito aos limites definidos não apenas pelo sistema, mas por sua própria limitação ou estrutura biopsicossocial. Este fenômeno para a Terapia de Reintegração Implícita é chamado de “acoplamento”, e ocorre continuamente em cada contexto e momento de nossas vidas.
+A pessoa consegue movimentar-se nesse sistema, porém, restrito aos limites definidos não apenas pelo sistema, mas por sua própria limitação ou estrutura [[Glossário TRI/Biopsicossocial\|biopsicossocial]]. Este fenômeno para a Terapia de Reintegração Implícita é chamado de “acoplamento”, e ocorre continuamente em cada contexto e momento de nossas vidas.
 
 O “acoplamento” também pode ser entendido como a capacidade do sistema nervoso de se adaptar e reagir de forma flexível às necessidades do meio ambiente. Em condições de “acoplamento” saudável, o sistema nervoso é capaz de regular as emoções, responder adequadamente aos estímulos e manter um equilíbrio.
 
@@ -18,7 +18,7 @@ O sistema ou estrutura da pessoa encontra atrito com o novo sistema, porém, o s
 Tenta se resignar e ficar o máximo que puder, mesmo que isso a esgote
 Desiste e se retira
 
-Este processo de acoplamento ou desacoplamento (aceitar ou ser expulso) está em toda interação humana com outros sistemas, como trabalho, amizades, relacionamentos etc.
+Este processo de acoplamento ou desacoplamento (aceitar ou ser expulso) está em toda [[Glossário TRI/Interação\|interação]] humana com outros sistemas, como trabalho, amizades, relacionamentos etc.
 
 ----
 
