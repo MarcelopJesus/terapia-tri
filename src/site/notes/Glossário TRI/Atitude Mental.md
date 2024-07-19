@@ -12,7 +12,7 @@ O terapeuta precisa entender que aquela pessoa na sua frente quer ser vista como
 
 É essencial que o cliente compreenda claramente o que está envolvido e o que se espera dele, que não tenha dúvidas nem medo para que o processo terapêutico ocorra com sucesso.
 
-Durante o processo, é fundamental que o terapeuta observe a linguagem corporal do cliente, estas podem revelar muito sobre seu estado emocional e sua receptividade ao processo. Se houver sinais de desconforto ou resistência, o terapeuta deve abordar essas preocupações com compreensão e paciência, reforçando que a terapia é uma escolha pessoal e depende inteiramente do consentimento e da vontade do cliente.
+Durante o processo, é fundamental que o terapeuta observe a linguagem corporal do cliente, estas podem revelar muito sobre seu estado emocional e sua receptividade ao processo. Se houver sinais de desconforto ou resistência, o terapeuta deve abordar essas preocupações com [[Glossário TRI/Compreensão\|compreensão]] e paciência, reforçando que a terapia é uma escolha pessoal e depende inteiramente do consentimento e da vontade do cliente.
 
 Se a pessoa não estiver receptiva, é importante respeitar isso e aguardar o momento certo para uma abordagem eficaz, pois o papel do terapeuta é mais de um facilitador do que de um controlador. Ele atua como um guia, ajudando o cliente a navegar pelo processo de compreensão e reeducação.
 
@@ -21,6 +21,10 @@ ATTITUDINE, “postura, disposição”, do Latim APTITUDO, “adequação”, d
 
 
 ----
+
+### Ver também:
+
+[[Glossário TRI/Reeducação\|Reeducação]]
 
 
 
