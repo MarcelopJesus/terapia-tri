@@ -12,12 +12,17 @@ Carregar esses aprendizados pode se tornar um fardo que impede o indivíduo de a
 
 O processo de terapia não é apenas sobre resolver conflitos emocionais superficiais, mas também sobre capacitar os clientes a assumirem o controle de suas próprias vidas de uma maneira significativa e duradoura. 
 
-À medida que é realizada a compreensão e internalizado os novos aprendizados adquiridos na terapia, torna-se mais fácil para eles reconhecerem seus próprios recursos internos e navegarem pelos desafios da vida com maior autonomia e resiliência. 
+À medida que é realizada a [[Glossário TRI/Compreensão\|compreensão]] e internalizado os novos aprendizados adquiridos na terapia, torna-se mais fácil para eles reconhecerem seus próprios recursos internos e navegarem pelos desafios da vida com maior autonomia e resiliência. 
 
-Assim, a terapia não apenas alivia o sofrimento emocional, mas também catalisa uma transformação profunda e positiva, permitindo que as pessoas vivam vidas mais autênticas, realizadas e significativas.
+Assim, a terapia não apenas alivia o [[Glossário TRI/Sofrimento\|sofrimento]] emocional, mas também catalisa uma transformação profunda e positiva, permitindo que as pessoas vivam vidas mais autênticas, realizadas e significativas.
 
 
 ----
 
+### Ver também:
 
+[[Glossário TRI/Aprendizado Social\|Aprendizado Social]]
+[[Glossário TRI/Interação\|Interação]]
+[[Glossário TRI/Implícito\|Implícito]]
+[[Glossário TRI/Reintegração\|Reintegração]]
 
