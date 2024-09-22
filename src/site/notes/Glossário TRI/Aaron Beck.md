@@ -15,5 +15,7 @@ A TRI considera que os comportamentos e pensamentos evitativos são estratégias
 
 ----
 
+### Ver também:
 
+[[Glossário TRI/Implícito\|Implícito]]
 

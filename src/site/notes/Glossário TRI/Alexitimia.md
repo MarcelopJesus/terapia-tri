@@ -14,4 +14,9 @@ A T.R.I. reconhece essa dificuldade e entende que muitas vezes o que o cliente s
 ----
 
 
+### Ver também
+
+[[Glossário TRI/Sensação\|Sensação]]
+[[Glossário TRI/Compreensão\|Compreensão]]
+[[Glossário TRI/Emoção\|Emoção]]
 

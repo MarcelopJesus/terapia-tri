@@ -19,7 +19,9 @@ Neurônios de Projeção Ampla: Distribuídos pelo hipocampo e córtex, regulam 
 
 
 
+
 ----
+### Ver também:
 
-
-
+[[Glossário TRI/Sistema Colinérgico\|Sistema Colinérgico]]
+[[Glossário TRI/Plasticidade Sináptica\|Plasticidade Sináptica]]

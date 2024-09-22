@@ -15,6 +15,8 @@ Embora esse conceito seja relevante na [[Glossário TRI/Psicanálise\|psicanáli
 
 ----
 ### Ver também:
-[[Glossário TRI/Emoção\|Emoção]] , [[Glossário TRI/Visceral\|Visceral]]
+[[Glossário TRI/Emoção\|Emoção]] 
+[[Glossário TRI/Visceral\|Visceral]]
+[[Glossário TRI/Reintegração\|Reintegração]]
 
 
