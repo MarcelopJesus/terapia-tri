@@ -19,7 +19,7 @@ Em resumo, a autopoiese na TRI destaca a capacidade inata do sistema nervoso de 
 ### Ver também:
 
 [[Glossário TRI/Reeducação\|Reeducação]]
-
-
+[[Glossário TRI/Sistema Nervoso\|Sistema Nervoso]]
+[[Glossário TRI/Aprendizado Social\|Aprendizado Social]]
 
 

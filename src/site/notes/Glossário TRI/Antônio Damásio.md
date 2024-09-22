@@ -20,4 +20,3 @@ Além disso, Damásio enfatiza a importância da consciência e do self na forma
 
 [[Glossário TRI/Emoção\|Emoção]]
 [[Glossário TRI/Marcador Somático\|Marcador Somático]]
-

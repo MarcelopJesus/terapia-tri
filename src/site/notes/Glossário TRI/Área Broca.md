@@ -4,6 +4,7 @@
 
 ---
 
+
 A área de Broca é uma área localizada no cérebro humano, que desempenha um papel fundamental na produção da fala . Essa região, denominada em homenagem ao neurologista francês Pierre Paul Broca, está localizada no lobo frontal do hemisfério dominante, normalmente no lado esquerdo do cérebro. 
 
 O processamento da linguagem tem sido associado à área de Broca, desde que o neurologista Pierre Broca relatou deficiência em dois pacientes. Eles perderam a capacidade da fala após uma lesão no giro frontal inferior posterior do cérebro. A partir daquele momento, a região próxima que ele identificou se tornou conhecida como área Broca, e o déficit na produção da linguagem, conhecido como afasia de Broca, ou também conhecido como afasia expressiva. Qualquer lesão nessa região pode afetar diretamente a capacidade de falar, destacando a importância da integridade dessa região para um funcionamento adequado
@@ -14,5 +15,9 @@ Deste modo, a simples memorização do sofrimento, já é capaz de causar um aum
 
 ----
 
+### Ver também:
+
+[[Glossário TRI/Sofrimento\|Sofrimento]]
+[[Glossário TRI/Narrativa Coerente\|Narrativa Coerente]]
 
 

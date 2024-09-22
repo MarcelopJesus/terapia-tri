@@ -20,3 +20,12 @@ Portanto, para a TRI, não basta apenas falar, é necessário fazê-lo da maneir
 
 
 
+### Ver também:
+
+[[Glossário TRI/Psicanálise\|Psicanálise]]
+[[Glossário TRI/Terapia\|Terapia]]
+[[Glossário TRI/Visceral\|Visceral]]
+[[Glossário TRI/Emoção\|Emoção]]
+[[Glossário TRI/Inibição\|Inibição]]
+[[Glossário TRI/Comportamento\|Comportamento]]
+[[Glossário TRI/Vitimização\|Vitimização]]

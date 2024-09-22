@@ -11,5 +11,8 @@ Na T.R.I., o processamento “Bottom-Up" pode ser comparado à revelação, onde
 
 ----
 
+### Ver também:
 
+[[Glossário TRI/Sistemas representacionais\|Sistemas representacionais]]
+[[Glossário TRI/Sensorial\|Sensorial]]
 

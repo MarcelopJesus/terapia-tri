@@ -13,5 +13,12 @@ Portanto, na TRI, a ênfase não está em encontrar uma causa específica para c
 
 ----
 
+### Ver também:
 
+[[Glossário TRI/Abordagem Integrada\|Abordagem Integrada]]
+[[Glossário TRI/Reintegração\|Reintegração]]
+[[Glossário TRI/Psicoterapia\|Psicoterapia]]
+[[Glossário TRI/Emoção\|Emoção]]
+[[Glossário TRI/Comportamento\|Comportamento]]
+[[Glossário TRI/Biopsicossocial\|Biopsicossocial]]
 
