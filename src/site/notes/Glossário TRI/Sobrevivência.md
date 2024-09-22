@@ -36,5 +36,12 @@ Sobrevivência, do latim “Super” que significa “sobre” ou “além” e 
 
 ----
 
+### Ver também:
+
+[[Glossário TRI/Processos Adaptativos\|Processos Adaptativos]]
+[[Glossário TRI/Cérebro Amoral\|Cérebro Amoral]]
+[[Glossário TRI/Sacrifício por Amor aos Iguais\|Sacrifício por Amor aos Iguais]]
+[[Glossário TRI/Emoção\|Emoção]]
+
 
 

@@ -18,5 +18,8 @@ Nosso ancestral pré-histórico enfrentava constantes ameaças e escassez de rec
 
 ----
 
+### Ver também:
 
-
+[[Glossário TRI/Neurotransmissores\|Neurotransmissores]]
+[[Glossário TRI/Processos Adaptativos\|Processos Adaptativos]]
+[[Glossário TRI/Sistema Nervoso\|Sistema Nervoso]]

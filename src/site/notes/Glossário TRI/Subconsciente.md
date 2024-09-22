@@ -15,5 +15,10 @@ Janet percebeu que tais comportamentos eram resultados de aprendizados que, embo
 
 ----
 
+### Ver também:
 
-
+[[Glossário TRI/Hipnose no Paradigma da TRI\|Hipnose no Paradigma da TRI]]
+[[Glossário TRI/Compreensão\|Compreensão]]
+[[Glossário TRI/Aprendizado Social\|Aprendizado Social]]
+[[Glossário TRI/Consciência\|Consciência]]
+[[Glossário TRI/Mente\|Mente]]

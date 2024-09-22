@@ -25,5 +25,12 @@ Etimologia e semântica: pherein, no grego, e no latim, ferre, carregar, suffere
 
 ----
 
+### Ver também:
+
+[[Glossário TRI/Personalidade\|Personalidade]]
+[[Glossário TRI/Emoção\|Emoção]]
+[[Glossário TRI/Percepção\|Percepção]]
+[[Glossário TRI/Crenças\|Crenças]]
+
 
 

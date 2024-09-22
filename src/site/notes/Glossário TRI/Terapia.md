@@ -11,4 +11,8 @@ A psicoterapia é uma forma específica de terapia que se concentra no tratament
 
 ----
 
+### Ver também:
 
+[[Glossário TRI/Psicoterapia\|Psicoterapia]]
+[[Terapia Cognitivo-Comportamental\|Terapia Cognitivo-Comportamental]]
+[[Glossário TRI/Terapia de Reintegração Implícita ( T.R.I)\|Terapia de Reintegração Implícita ( T.R.I)]]

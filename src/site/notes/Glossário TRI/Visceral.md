@@ -17,5 +17,14 @@ Etimologia: Víscera + al. Do latim visceralis, que significa “interno”.
 
 ----
 
+### Ver também:
+
+[[Glossário TRI/Emoção\|Emoção]]
+[[Glossário TRI/Corpo como Palco\|Corpo como Palco]]
+[[Glossário TRI/Sistema Nervoso Autônomo\|Sistema Nervoso Autônomo]]
+[[Glossário TRI/Compreensão\|Compreensão]]
+[[Glossário TRI/Sensação\|Sensação]]
+[[Glossário TRI/Consciência\|Consciência]]
+
 
 

@@ -16,5 +16,12 @@ Na prática, um terapeuta TRI não fará sessões apenas para mudar o medo condi
 
 ----
 
+### Ver também:
+
+[[Glossário TRI/Behaviorismo\|Behaviorismo]]
+[[Glossário TRI/Comportamento\|Comportamento]]
+[[Glossário TRI/Sistemas representacionais\|Sistemas representacionais]]
+[[Glossário TRI/Semiótica Relacional\|Semiótica Relacional]]
+[[Glossário TRI/Memória Declarativa\|Memória Declarativa]]
 
 

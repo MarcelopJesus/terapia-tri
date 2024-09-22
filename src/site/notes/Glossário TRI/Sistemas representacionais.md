@@ -17,5 +17,13 @@ Em resumo, o sexto princípio da TRI nos convida a questionar a noção de um "e
 
 ----
 
+### Ver também:
 
+[[Glossário TRI/Personalidade\|Personalidade]]
+[[Glossário TRI/Interação\|Interação]]
+[[Glossário TRI/Consciência\|Consciência]]
+[[Glossário TRI/Percepção\|Percepção]]
+[[Glossário TRI/Sistema Autopoiético\|Sistema Autopoiético]]
+[[Glossário TRI/Introjeção\|Introjeção]]
+[[04 - Tri/Biopsicosocial\|Biopsicosocial]]
 

@@ -4,29 +4,32 @@
 
 ---
 
-O Triângulo de Karpman, também conhecido como Triângulo do Drama, é um conceito que pode ser aplicado na Terapia de Reintegração Implícita (TRI) como uma ferramenta para compreender e explorar dinâmicas relacionais disfuncionais.
+No contexto psicológico e terapêutico, a "vítima" é um dos três papéis do Triângulo de Karpman, também conhecido como Triângulo Dramático. Este modelo, desenvolvido por Stephen Karpman, descreve interações sociais disfuncionais e é composto pelos papéis de Vítima, Perseguidor (Agressor) e Salvador.
 
-O Triângulo de Karpman é composto por três papéis principais: o Perseguidor (ou Agressor), a Vítima e o Salvador. Esses papéis representam padrões de interação que podem ocorrer em relacionamentos problemáticos.
+Papel da Vítima: 
 
-Na Terapia de Reintegração Implícita (TRI), o papel de vítima no Triângulo de Karpman representa uma posição na qual o indivíduo se percebe como alguém que sofre, é injustiçado ou oprimido. Ser vítima no contexto do Triângulo de Karpman implica em uma identificação com a impotência e a falta de controle sobre as circunstâncias.
+Sentimento de Impotência: A pessoa no papel de vítima frequentemente se sente impotente e acredita que não tem controle sobre suas circunstâncias. Este papel pode ser desempenhado tanto em relação a outras pessoas quanto em relação a si mesmo, refletindo uma percepção interna de desamparo. 
 
-Dentro da TRI, o objetivo é ajudar o cliente a explorar e compreender as dinâmicas subjacentes ao papel de vítima, bem como as crenças, emoções e comportamentos associados a essa posição. É importante ressaltar que a TRI busca capacitar o cliente a romper com esses padrões disfuncionais, promovendo uma reintegração saudável e equilibrada.
+Dependência de Validação Externa: A vítima pode depender de outros para validação e apoio, reforçando a percepção de que não pode resolver seus problemas sozinha. 
 
-Ao assumir o papel de vítima, o cliente pode experimentar sentimentos de desamparo, tristeza, raiva ou medo. A TRI busca auxiliar o cliente a desenvolver uma maior consciência dessas emoções e a explorar estratégias mais eficazes de enfrentamento, permitindo que ele se liberte das dinâmicas destrutivas e encontre uma maior autonomia emocional.
+Evitação de Responsabilidade: Este papel pode envolver evitar a responsabilidade pessoal, atribuindo a culpa a fatores externos ou a outras pessoas. No Triângulo de Karpman, as pessoas frequentemente alternam entre os papéis de Vítima, Perseguidor e Salvador. 
 
-ETIMOLOGIA:
-ví·ti·ma
-sf
-1 Pessoa ou animal que morre em sacrifício a uma divindade ou em algum ritual.
-2 Pessoa ferida, executada, torturada ou violentada.
-3 Pessoa que morre ou passa por uma situação traumática: “[…] ficou tetraplégica aos dezoito anos, vítima de um acidente de carro” (CMa).
-4 Pessoa que é submetida a arbitrariedades: “Por vezes, se Deus não chegasse depressa, Pedrinho poderia ser vítima de atos que muita gente não gosta nem de ler nem de escutar” (JMV2).
-5 Pessoa que sofre o resultado funesto das próprias paixões ou a quem são fatais os seus bons sentimentos.
-6 Qualquer ser ou coisa que sofre algum tipo de prejuízo.
-7 JUR Pessoa contra quem se comete um crime.
+Durante a terapia, esses papéis podem se alternar entre o próprio cliente e suas representações internas ou externas. Por exemplo, uma pessoa pode inicialmente se ver como vítima em relação a um evento passado, mas, ao explorar suas emoções, pode perceber que também desempenha o papel de perseguidor em relação a si mesma, criticando-se internamente por suas ações ou inações. 
+
+A Terapia de Reintegração Implícita (T.R.I.) busca ajudar os indivíduos a reconhecerem esses papéis e a desenvolverem uma maior autonomia emocional. A T.R.I. promove a compreensão das motivações internas que levam alguém a adotar o papel de Vítima e trabalha para reintegrar afetos conflitantes, promovendo a remissão sintomática e a autonomia emocional. Dessa forma, a terapia visa transformar a percepção de vítima em uma postura de protagonismo, onde o indivíduo reconhece suas capacidades e recursos internos para lidar com desafios e construir uma vida mais satisfatória e equilibrada.
 
 
 ----
 
+### Ver também:
+
+[[Glossário TRI/Triângulo de Karpman\|Triângulo de Karpman]]
+[[Glossário TRI/Stephen Karpman\|Stephen Karpman]]
+[[Glossário TRI/Compreensão\|Compreensão]]
+[[Glossário TRI/Emoção\|Emoção]]
+[[Glossário TRI/Crenças\|Crenças]]
+[[Glossário TRI/Consciência\|Consciência]]
+[[Glossário TRI/Disfuncional\|Disfuncional]]
+[[Glossário TRI/Reintegração\|Reintegração]]
 
 

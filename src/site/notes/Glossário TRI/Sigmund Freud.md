@@ -17,6 +17,10 @@ Embora a Terapia de Reintegração Implícita (T.R.I.) não seja diretamente bas
 
 
 ----
+### Ver também:
+
+[[Glossário TRI/Psicanálise\|Psicanálise]]
+[[Glossário TRI/Inconsciente\|Inconsciente]]
 
 
 
